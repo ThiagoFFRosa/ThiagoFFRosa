@@ -1,4 +1,4 @@
-![image0-1-1-1](https://user-images.githubusercontent.com/112905085/189124088-a126ccfb-26a8-422b-889b-97c823ceb325.gif)
+![Tumblr_l_25248451584132](https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif)
 
 - 🔭 I’m currently working on Unitau and Rp servers
 - 🌱 I’m currently learning Phyton and C/C++
@@ -7,11 +7,11 @@
 - 📫 How to reach me: Discord FuzZy#7777
 - ⚡ Fun fact: 100% of my time online on discord
 
-![image0-1-1-1](https://user-images.githubusercontent.com/112905085/189124088-a126ccfb-26a8-422b-889b-97c823ceb325.gif)
+![Tumblr_l_25248451584132](https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif)
 
 My Discord RP Server:
 discord.gg/midgardcity
 
-![image0-1-1-1](https://user-images.githubusercontent.com/112905085/189124088-a126ccfb-26a8-422b-889b-97c823ceb325.gif)
+![Tumblr_l_25248451584132](https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif)
 
 ![IMG_8025](https://user-images.githubusercontent.com/112905085/189122553-bba9647d-be53-4f6c-9bbd-219e07d21575.gif)

@@ -8,4 +8,9 @@
 - 📫 How to reach me: Discord FuzZy#7777
 - ⚡ Fun fact: 100% of my time online on discord
   
-<img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953748243156721750/1016774000384409600/standard_2.gif">
+</div>
+
+  <div style="display: inline_block"><br>
+  
+<img align="right" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/682945175533912163/1016431973188767765/1133950.jpg?width=1191&height=671">
+</div>

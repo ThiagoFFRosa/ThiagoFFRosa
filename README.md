@@ -24,4 +24,4 @@ discord.gg/midgardcity
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-a
+![923881828761346068](https://user-images.githubusercontent.com/112905085/189128685-3abe4e2e-97cd-4ed1-ab8c-5f92cbd0e7c1.gif)

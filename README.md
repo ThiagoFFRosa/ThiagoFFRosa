@@ -22,9 +22,7 @@ discord.gg/midgardcity
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
   ![923881828761346068](https://user-images.githubusercontent.com/112905085/189128151-f6d00007-4447-4d7e-afac-8c1df222fa82.gif)
-  
 </div>
 
 

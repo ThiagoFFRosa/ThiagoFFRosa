@@ -10,12 +10,13 @@
 ![Tumblr_l_25248451584132](https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif)
 
 My Discord RP Server:
-discord.gg/midgardcity
+discord.gg/midgardcity 
+
+![923881828761346068](https://user-images.githubusercontent.com/112905085/189128862-2d34fbf8-fb3d-4e2d-bca5-1294bbcdbb93.gif)
 
 ![Tumblr_l_25248451584132](https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif)
 
 <div align="center">
-  <a href="https://github.com/ThiagoFFRosa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoffrosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoffrosa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -24,4 +25,3 @@ discord.gg/midgardcity
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-![923881828761346068](https://user-images.githubusercontent.com/112905085/189128685-3abe4e2e-97cd-4ed1-ab8c-5f92cbd0e7c1.gif)

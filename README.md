@@ -7,8 +7,8 @@
 **💻 Programmer • 🌐 Web & 🤖 Bots • 🧰 Modding**
 📍 Taubaté, SP — UTC−3
 
-[![GitHub followers](https://img.shields.io/github/followers/thfrosa?label=Follow\&style=for-the-badge)](https://github.com/thfrosa)
-[![Profile Views](https://komarev.com/ghpvc/?username=thfrosa\&style=for-the-badge)](https://github.com/thfrosa)
+[![GitHub followers](https://img.shields.io/github/followers/ThiagoFFRosa?label=Follow\&style=for-the-badge)](https://github.com/ThiagoFFRosa)
+[![Profile Views](https://komarev.com/ghpvc/?username=ThiagoFFRosa\&style=for-the-badge)](https://github.com/ThiagoFFRosa)
 [![Discord](https://img.shields.io/badge/Discord-fuzzy.s-blue?style=for-the-badge\&logo=discord)](#-contact)
 
 > ✨ *Almost graduated in Computer Engineering – thoughts debugged, feelings not always.*
@@ -64,15 +64,15 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thfrosa\&show_icons=true\&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=ThiagoFFRosa\&show_icons=true\&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thfrosa\&layout=compact\&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFFRosa\&layout=compact\&theme=transparent)
 
 <!-- Optional: streaks and trophies -->
 
 <!--
-<img src="https://streak-stats.demolab.com?user=thfrosa&theme=transparent" alt="streak"/>
-<img src="https://github-profile-trophy.vercel.app/?username=thfrosa&theme=flat&no-frame=true" alt="trophies"/>
+<img src="https://streak-stats.demolab.com?user=ThiagoFFRosa&theme=transparent" alt="streak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ThiagoFFRosa&theme=flat&no-frame=true" alt="trophies"/>
 -->
 
 </div>
@@ -107,13 +107,13 @@
 
 ### ⚙️ How to set it up
 
-1. Create a repository **exactly** with your username (e.g., `thfrosa/thfrosa`).
+1. Create a repository **exactly** with your username (e.g., `ThiagoFFRosa/ThiagoFFRosa`).
 2. Add a `README.md` file with this content.
 3. It will appear as your GitHub profile page.
 
 ### 🔧 Quick customization
 
-* Replace `thfrosa` in all URLs (badges, stats).
+* Replace `ThiagoFFRosa` in all URLs (badges, stats).
 * Update your **contact info**.
 * Pin your most important repositories.
 * Enable streaks/trophies if you like a flashier look.

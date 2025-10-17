@@ -82,7 +82,7 @@
 ## 📫 Contact
 
 * 💬 **Discord:** `fuzzy.s`
-* 📧 **Email:** `thiagofelipeferreiraros a [at] gmail [dot] com`
+* 📧 **Email:** `thiagofelipeferreirarosa@gmail.com`
 * 📍 **Location:** Taubaté, SP (BR)
 
 ---

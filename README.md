@@ -1,16 +1,119 @@
-![Tumblr_l_25248451584132](https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif)
+<div align="center">
 
-- 🔭 I’m currently working on Unitau and Rp servers
-- 🌱 I’m currently learning HTML and Phyton
-- 🤔 I’m looking for help with html php css
-- 💬 Ask me about Gta V Clothes and Web sites
-- 📫 How to reach me: Discord (currently offline)
-- ⚡ Fun fact: 100% of my time online on discord
+<img src="https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif" width="650" alt="retro header"/>
 
-![Tumblr_l_25248451584132](https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif)
+# Thiago Felipe Ferreira Rosa
 
-My Discord RP Server:(currently off)
+**💻 Programmer • 🌐 Web & 🤖 Bots • 🧰 Modding**
+📍 Taubaté, SP — UTC−3
 
-![923881828761346068](https://user-images.githubusercontent.com/112905085/189128862-2d34fbf8-fb3d-4e2d-bca5-1294bbcdbb93.gif)
+[![GitHub followers](https://img.shields.io/github/followers/thfrosa?label=Follow\&style=for-the-badge)](https://github.com/thfrosa)
+[![Profile Views](https://komarev.com/ghpvc/?username=thfrosa\&style=for-the-badge)](https://github.com/thfrosa)
+[![Discord](https://img.shields.io/badge/Discord-fuzzy.s-blue?style=for-the-badge\&logo=discord)](#-contact)
 
-![Tumblr_l_25248451584132](https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif)
+> ✨ *Almost graduated in Computer Engineering – thoughts debugged, feelings not always.*
+
+</div>
+
+---
+
+## 👋 About me
+
+* 💻 Full‑stack developer in progress.
+* 🧠 Focused on **Node.js**, **MySQL**, **Discord Bots** and **Web Tools**.
+* 🕹️ Experienced with **GTA V Modding (FiveM)**, clothing packs & Lua scripting.
+* 🐧 Daily Linux user (Arch/Hyprland) — clean and efficient setups.
+
+---
+
+## 🧰 Tech stack
+
+**Core:** Node.js • Express • MySQL • HTML • CSS • JavaScript • PHP • Python
+**Bots:** discord.js • whatsapp-web.js • Socket.IO • cron
+**DevOps:** Railway • Docker • Linux (Arch/Hyprland)
+**Game/RP:** FiveM resources • clothing packs • Lua snippets
+
+<p>
+  <img alt="Node" height="28" src="https://cdn.simpleicons.org/nodedotjs"/>
+  <img alt="Express" height="28" src="https://cdn.simpleicons.org/express"/>
+  <img alt="MySQL" height="28" src="https://cdn.simpleicons.org/mysql"/>
+  <img alt="HTML5" height="28" src="https://cdn.simpleicons.org/html5"/>
+  <img alt="CSS3" height="28" src="https://cdn.simpleicons.org/css3"/>
+  <img alt="JavaScript" height="28" src="https://cdn.simpleicons.org/javascript"/>
+  <img alt="PHP" height="28" src="https://cdn.simpleicons.org/php"/>
+  <img alt="Python" height="28" src="https://cdn.simpleicons.org/python"/>
+  <img alt="Discord" height="28" src="https://cdn.simpleicons.org/discord"/>
+  <img alt="Docker" height="28" src="https://cdn.simpleicons.org/docker"/>
+  <img alt="Linux" height="28" src="https://cdn.simpleicons.org/linux"/>
+</p>
+
+---
+
+## 🚀 Highlights
+
+* 🧾 **BrewMeet** — Event platform (Node + MySQL + Google OAuth)
+* 🤖 **WhatsCRM** — Multi-tenant WhatsApp bot with automation & dashboard
+* 🪽 **Seraphim** — Discord voice bot with ASR/TTS and memory
+* 🧥 **FiveM Tools** — Clothing packs and utility scripts
+
+> Recommended pins: `BrewMeet`, `WhatsCRM`, `Seraphim`, `FiveM-Addons-Tools`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=thfrosa\&show_icons=true\&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thfrosa\&layout=compact\&theme=transparent)
+
+<!-- Optional: streaks and trophies -->
+
+<!--
+<img src="https://streak-stats.demolab.com?user=thfrosa&theme=transparent" alt="streak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thfrosa&theme=flat&no-frame=true" alt="trophies"/>
+-->
+
+</div>
+
+---
+
+## 📫 Contact
+
+* 💬 **Discord:** `fuzzy.s`
+* 📧 **Email:** `thiagofelipeferreiraros a [at] gmail [dot] com`
+* 📍 **Location:** Taubaté, SP (BR)
+
+---
+
+## 📝 Notes
+
+* ✨ Clean & minimal structure — only top & bottom gifs for lightness.
+* 📌 Keep **Highlights** updated to show active work.
+* 🧭 Fully in **English** for global visibility.
+
+---
+
+<div align="center">
+
+*Built with ❤️ from Taubaté, SP.*
+
+<img src="https://user-images.githubusercontent.com/112905085/189124365-af1b495e-819c-4592-84e8-0d4f4ed979ba.gif" width="400" alt="footer gif"/>
+
+</div>
+
+---
+
+### ⚙️ How to set it up
+
+1. Create a repository **exactly** with your username (e.g., `thfrosa/thfrosa`).
+2. Add a `README.md` file with this content.
+3. It will appear as your GitHub profile page.
+
+### 🔧 Quick customization
+
+* Replace `thfrosa` in all URLs (badges, stats).
+* Update your **contact info**.
+* Pin your most important repositories.
+* Enable streaks/trophies if you like a flashier look.

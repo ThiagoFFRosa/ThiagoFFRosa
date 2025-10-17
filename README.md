@@ -38,7 +38,7 @@
   <img alt="Express" height="28" src="https://cdn.simpleicons.org/express"/>
   <img alt="MySQL" height="28" src="https://cdn.simpleicons.org/mysql"/>
   <img alt="HTML5" height="28" src="https://cdn.simpleicons.org/html5"/>
-  <img alt="CSS3" height="28" src="https://cdn.simpleicons.org/css3"/>
+  <img alt="CSS3" height="28" src="https://cdn.simpleicons.org/css"/>
   <img alt="JavaScript" height="28" src="https://cdn.simpleicons.org/javascript"/>
   <img alt="PHP" height="28" src="https://cdn.simpleicons.org/php"/>
   <img alt="Python" height="28" src="https://cdn.simpleicons.org/python"/>

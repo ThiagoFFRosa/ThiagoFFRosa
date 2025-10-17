@@ -87,14 +87,6 @@
 
 ---
 
-## 📝 Notes
-
-* ✨ Clean & minimal structure — only top & bottom gifs for lightness.
-* 📌 Keep **Highlights** updated to show active work.
-* 🧭 Fully in **English** for global visibility.
-
----
-
 <div align="center">
 
 *Built with ❤️ from Taubaté, SP.*
@@ -103,17 +95,3 @@
 
 </div>
 
----
-
-### ⚙️ How to set it up
-
-1. Create a repository **exactly** with your username (e.g., `ThiagoFFRosa/ThiagoFFRosa`).
-2. Add a `README.md` file with this content.
-3. It will appear as your GitHub profile page.
-
-### 🔧 Quick customization
-
-* Replace `ThiagoFFRosa` in all URLs (badges, stats).
-* Update your **contact info**.
-* Pin your most important repositories.
-* Enable streaks/trophies if you like a flashier look.

@@ -58,25 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ThiagoFFRosa\&show_icons=true\&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFFRosa\&layout=compact\&theme=transparent)
-
-<!-- Optional: streaks and trophies -->
-
-<!--
-<img src="https://streak-stats.demolab.com?user=ThiagoFFRosa&theme=transparent" alt="streak"/>
-<img src="https://github-profile-trophy.vercel.app/?username=ThiagoFFRosa&theme=flat&no-frame=true" alt="trophies"/>
--->
-
-</div>
-
----
-
 ## 📫 Contact
 
 * 💬 **Discord:** `fuzzy.s`

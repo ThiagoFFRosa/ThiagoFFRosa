@@ -56,8 +56,6 @@
 * 🪽 **Seraphim** — Discord voice bot with ASR/TTS and memory
 * 🧥 **FiveM Tools** — Clothing packs and utility scripts
 
-> Recommended pins: `BrewMeet`, `WhatsCRM`, `Seraphim`, `FiveM-Addons-Tools`
-
 ---
 
 ## 📊 GitHub Stats

@@ -19,7 +19,7 @@
 
 ## 👋 About me
 
-* 💻 Full‑stack developer in progress.
+* 💻 Full‑stack developer.
 * 🧠 Focused on **Node.js**, **MySQL**, **Discord Bots** and **Web Tools**.
 * 🕹️ Experienced with **GTA V Modding (FiveM)**, clothing packs & Lua scripting.
 * 🐧 Daily Linux user (Arch/Hyprland) — clean and efficient setups.
